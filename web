@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Docker Web</title>
+</head>
+<body>
+    <h1>Nginx Web Container Running</h1>
+    <p>Praktikum Docker Compose berhasil.</p>
+</body>
+</html>
